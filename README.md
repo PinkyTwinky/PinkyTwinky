@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PinkyTwinky
 - 👀 I’m interested in C# and the web
 - 🌱 I’m currently learning how to apply Design Patterns in my code
-- 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me on Github
 
 <!---
